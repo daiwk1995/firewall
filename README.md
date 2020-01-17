@@ -3,6 +3,6 @@ run program:
 Python firewall.py test.txt
 
 Team Prefer:
-Platform Team
 Data Team
+Platform Team
 Public Team
